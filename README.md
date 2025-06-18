@@ -8,7 +8,7 @@ This dashboard was designed to visualize Blinkit's sales data across various pro
 
 🛠️ Technology Used:
 
-Power BI, DAX, Power Query, Excel
+SQL, Python, Power BI, DAX, Power Query, Excel
 
 ✨ Key Features:
 
